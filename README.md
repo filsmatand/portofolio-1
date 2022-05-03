@@ -1,2 +1,2 @@
 # portofolio-1 👋
-<p> toute mes informations.</p>
+<p> toute les informations possible.</p>
