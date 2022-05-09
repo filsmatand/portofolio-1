@@ -1,2 +1,2 @@
 # portofolio-1 👋
-<p>trouver toute les information possible</p>
+<p>trouver toute les information possibl</p>
